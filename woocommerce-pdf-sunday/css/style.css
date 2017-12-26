@@ -1,0 +1,21 @@
+
+.wrap.PDF-for-orders .row{
+	margin: 15px 0;
+	display: block;
+}
+
+.wrap.PDF-for-orders label{
+	width: 25%;
+	display: inline-block;
+	font-weight: bold;
+}
+
+
+.wrap.PDF-for-orders input[type="text"],
+.wrap.PDF-for-orders textarea{
+    width: 60%;
+}
+
+.wrap.PDF-for-orders textarea{
+    height: 120px;
+}
